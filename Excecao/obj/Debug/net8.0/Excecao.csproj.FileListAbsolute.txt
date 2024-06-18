@@ -1,0 +1,14 @@
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\bin\Debug\net8.0\Excecao.exe
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\bin\Debug\net8.0\Excecao.deps.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\bin\Debug\net8.0\Excecao.runtimeconfig.json
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\bin\Debug\net8.0\Excecao.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\bin\Debug\net8.0\Excecao.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.AssemblyInfoInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.AssemblyInfo.cs
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.csproj.CoreCompileInputs.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\refint\Excecao.dll
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.pdb
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\Excecao.genruntimeconfig.cache
+c:\Users\hirch\OneDrive\Área de Trabalho\Estudo_Dev\CS\CSExcecao\Excecao\obj\Debug\net8.0\ref\Excecao.dll
